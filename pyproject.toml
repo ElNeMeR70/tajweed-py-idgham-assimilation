@@ -1,0 +1,7 @@
+[project]
+name = "tajweed-py-idgham-assimilation"
+version = "1.0.0"
+description = "Homorganic & Geminate Consonant Assimilation Engine (محلل الإدغام للمتماثلين والمتجانسين والمتقاربين)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
